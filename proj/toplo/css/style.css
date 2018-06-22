@@ -1,0 +1,303 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+@import url('https://use.fontawesome.com/releases/v5.0.13/css/all.css');
+@import url('../css/modal.css');
+@import url('../css/responsive.css');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 0.5rem;
+}
+
+p {
+    font-size: 0.29rem;
+}
+
+html {
+    font-size: calc((75vw - 4.5rem) / 7);
+    /* font-size: 3vmin; */
+    color: white;
+}
+
+body {
+    font-family: 'Comfortaa', sans-serif;
+    padding: 0 20vw;
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('../img/payment.PNG');
+}
+
+#app {
+    box-shadow: 0px 0px 10px 7px rgba(0, 0, 0, 0.75);
+}
+
+header {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/header-bgr.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+}
+
+header h1 {
+    text-align: center;
+    margin: auto;
+    width: 90%;
+    margin-bottom: 1rem;
+}
+
+header p {
+    text-align: center;
+    margin: auto;
+    font-size: 0.3rem;
+    color: #ada7a7;
+    margin-bottom: 1rem;
+}
+
+#we {
+    display: flex;
+    flex-flow: wrap;
+    width: 100%;
+    justify-content: center;
+    background: rgb(253, 251, 251);
+}
+
+#we article {
+    width: 50%;
+    height: 1.5rem;
+    text-align: center;
+    display: flex;
+    position: relative;
+    color: cadetblue;
+}
+
+#we article:nth-child(1) {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../img/we-bg1.PNG');
+    background-size: auto;
+    background-repeat: round;
+}
+
+#we article:nth-child(2) {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../img/we-bg2.PNG');
+    background-size: auto;
+    background-repeat: round;
+}
+
+#we article:nth-child(3) {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../img/we-bg3.PNG');
+    background-size: auto;
+    background-repeat: round;
+}
+
+#we article:nth-child(4) {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../img/we-bg4.PNG');
+    background-size: auto;
+    background-repeat: round;
+}
+
+#we .icon {
+    width: 20%;
+    display: inline-block;
+    position: relative;
+}
+
+#we p {
+    width: 68%;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 66%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+}
+
+#we i {
+    font-size: 0.65rem;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+#gallery{
+    text-align: center;
+}
+#gallery h1{
+    color: #000000;
+}
+#gallery a{
+    text-decoration: none;
+    color: cadetblue;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+#gallery a:hover{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+#location {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/map.jpg');
+    background-position: top;
+    background-size: cover;
+    height: 6.5rem;
+    text-align: center;
+    display: flex;
+}
+
+#location div {
+    width: 100%;
+}
+
+#location div h1 {
+    margin-top: 0.8rem;
+}
+
+#location p {
+    margin: 0.4rem;
+}
+
+#location a {
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    padding: 25px 50px;
+    background-color: rgba(95, 158, 160, 0.5);
+    font-size: 0.5rem;
+}
+
+#location a:hover {
+    background-color: cadetblue;
+}
+
+#contacts {
+    background-position: top;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    color: #000000;
+}
+
+#contacts h1 {
+    width: 80%;
+    height: 30%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 4vw;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.contact-logos {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.contact-logos div {
+    width: 33.33%;
+    text-align: center;
+    padding-top: 0.15rem;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.contact-logos div:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.olx img, .skype i, .tel i {
+    width: 1rem;
+    font-size: 1rem;
+    color: white;
+
+}
+
+.rotate-vert-center {
+    -webkit-animation: rotate-vert-center 1.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
+    animation: rotate-vert-center 1.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
+}
+
+.back {
+    color: red;
+    font-size: 2rem;
+    position: fixed;
+    left: 1rem;
+}
+
+.left a {
+    position: fixed;
+    left: 1rem;
+    top: 1.5rem;
+    font-size: 4rem !important;
+}
+
+div.text-box.folderTitle p {
+    font-weight: bold !important;
+    font-size: 0.55rem !important;
+    text-shadow: 0px 0px 7px #000000;
+    transform: scale(1, 1.5);
+    color: black;
+}
+div.text-box.folderTitle{
+    padding-left: 20px !important;
+}
+#jAlbum-footer{
+    display: none !important;
+}
+
+/* ----------------------------------------------
+ * Generated by Animista on 2018-6-21 2:47:15
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation rotate-vert-center
+ * ----------------------------------------
+ */
+
+@-webkit-keyframes rotate-vert-center {
+    0% {
+        -webkit-transform: rotateY(0);
+        transform: rotateY(0);
+    }
+    100% {
+        -webkit-transform: rotateY(360deg);
+        transform: rotateY(360deg);
+    }
+}
+
+@keyframes rotate-vert-center {
+    0% {
+        -webkit-transform: rotateY(0);
+        transform: rotateY(0);
+    }
+    100% {
+        -webkit-transform: rotateY(360deg);
+        transform: rotateY(360deg);
+    }
+}
+
+.pulse-button {
+    text-transform: uppercase;
+    cursor: pointer;
+    box-shadow: 0 0 0 0 rgba(255, 68, 0, 0.384);
+    animation: pulse 1.5s infinite;
+}
+
+.pulse-button:hover {
+    animation: none;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(0.9);
+    }
+    70% {
+        transform: scale(1);
+        box-shadow: 0 0 0 50px rgba(255, 68, 0, 0);
+    }
+    100% {
+        transform: scale(0.9);
+        box-shadow: 0 0 0 0 rgba(90, 153, 212, 0);
+    }
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>КОТЛИ</title>
+   	<link>..</link>
+        <generator>jAlbum 15.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>IMG1</title>
+            <link>slides/IMG1.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG1.jpg" width="192" height="256"/>
+            <media:content type="image/jpeg" url="slides/IMG1.jpg" width="1152" height="1536"/>
+            <guid isPermaLink="false">slides/IMG1.jpg</guid>
+        </item>
+        <item>
+            <title>IMG2</title>
+            <link>slides/IMG2.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG2.jpg" width="192" height="256"/>
+            <media:content type="image/jpeg" url="slides/IMG2.jpg" width="1152" height="1536"/>
+            <guid isPermaLink="false">slides/IMG2.jpg</guid>
+        </item>
+        <item>
+            <title>IMG3</title>
+            <link>slides/IMG3.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG3.jpg" width="192" height="256"/>
+            <media:content type="image/jpeg" url="slides/IMG3.jpg" width="1152" height="1536"/>
+            <guid isPermaLink="false">slides/IMG3.jpg</guid>
+        </item>
+    </channel>
+</rss>

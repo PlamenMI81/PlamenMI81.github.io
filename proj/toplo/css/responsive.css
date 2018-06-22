@@ -1,0 +1,24 @@
+@media all and (max-width:600px) {
+
+    /* body #we>article {
+        width: 100%;
+    } */
+    /* #we article:nth-child(1),#we article:nth-child(3){
+        background-color: #dfe4ea !important;
+    }
+    #we article:nth-child(2),#we article:nth-child(4){
+        background-color: #f1f2f6 !important;
+    } */
+    h1{
+        font-size: 0.6rem !important;
+    }
+    p{
+        font-size: 0.4rem !important;
+    }
+    body{
+        padding: 0 10vw !important;
+    }
+    #contacts h1{
+        width: 95% !important;
+    }
+}
