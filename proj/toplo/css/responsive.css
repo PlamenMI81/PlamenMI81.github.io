@@ -1,5 +1,4 @@
-@media all and (max-width:600px) {
-
+@media all and (max-width:900px) {
     /* body #we>article {
         width: 100%;
     } */
@@ -9,16 +8,31 @@
     #we article:nth-child(2),#we article:nth-child(4){
         background-color: #f1f2f6 !important;
     } */
-    h1{
+    h1 {
         font-size: 0.6rem !important;
     }
-    p{
+    p {
         font-size: 0.4rem !important;
     }
-    body{
+    body {
         padding: 0 10vw !important;
     }
-    #contacts h1{
+    #contacts h1 {
         width: 95% !important;
+    }
+    html{
+        font-size: calc((75vw - 4.5rem) / 7) !important;
+    }
+}
+
+@media all and (min-width:901px) {
+    body {
+        padding: 0 25vw !important;
+    }
+    p {
+        font-size: 0.5rem !important;
+    }
+    h1 {
+        font-size: 0.7rem !important;
     }
 }
