@@ -19,10 +19,16 @@
 
 <body>
     <div id="app">
-        <header class="mb">
+        <section id="header">
+            <video autoplay muted loop id="myVideo">
+                <source src="/img/header_vid.mp4" type="video/mp4">
+            </video>
+            <img src="/img/logo.png" alt="">
+        </section>
+        <section id="top" class="mb">
             <h1>Всичко за парното отопление</h1>
             <p>Богато разнообразие на ниски цени</p>
-        </header>
+        </section>
 
         <section id="we" class="mb">
             <article>
@@ -52,7 +58,10 @@
         </section>
         <section id="gallery" class="mb">
             <h1>Вижте част от нашите продукти</h1>
-            <a href="album/index.html"><i class="bounce-top fas fa-angle-double-down"></i><i class="fas fa-camera-retro"></i></a>
+            <a href="album/index.html">
+                <i class="bounce-top fas fa-angle-double-down"></i>
+                <i class="fas fa-camera-retro"></i>
+            </a>
         </section>
         <section id="location" class="mb">
             <h1 class="row">Адрес</h1>
@@ -79,12 +88,16 @@
                 </div>
                 <div class="olx">
                     <a href="https://toploplus2011.olx.bg/" target="_blank">
-                         <img src="./img/OLX-Logo.png" alt="">
+                        <img src="./img/OLX-Logo.png" alt="">
                     </a>
                 </div>
             </div>
-
         </section>
+        <footer>
+            <div>
+                created by P Ivanov 2018
+            </div>
+        </footer>
         <!-- Modal -->
         <div class="modal-wrapper">
             <div class="modal">
