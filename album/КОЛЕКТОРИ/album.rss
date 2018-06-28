@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>КОЛЕКТОРИ</title>
+   	<link>..</link>
+        <generator>jAlbum 15.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>IMG1</title>
+            <link>slides/IMG1.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG1.jpg" width="256" height="144"/>
+            <media:content type="image/jpeg" url="slides/IMG1.jpg" width="1536" height="866"/>
+            <jalbum:exif originalDate="Fri, 27 Jan 2017 17:28:13 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG1.jpg</guid>
+        </item>
+        <item>
+            <title>IMG2</title>
+            <link>slides/IMG2.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG2.jpg" width="144" height="256"/>
+            <media:content type="image/jpeg" url="slides/IMG2.jpg" width="866" height="1536"/>
+            <jalbum:exif originalDate="Fri, 27 Jan 2017 17:26:54 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG2.jpg</guid>
+        </item>
+        <item>
+            <title>IMG3</title>
+            <link>slides/IMG3.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG3.jpg" width="256" height="144"/>
+            <media:content type="image/jpeg" url="slides/IMG3.jpg" width="1536" height="866"/>
+            <jalbum:exif originalDate="Fri, 27 Jan 2017 17:27:22 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG3.jpg</guid>
+        </item>
+        <item>
+            <title>IMG4</title>
+            <link>slides/IMG4.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG4.jpg" width="256" height="144"/>
+            <media:content type="image/jpeg" url="slides/IMG4.jpg" width="1536" height="866"/>
+            <jalbum:exif originalDate="Fri, 27 Jan 2017 17:28:13 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG4.jpg</guid>
+        </item>
+        <item>
+            <title>IMG5</title>
+            <link>slides/IMG5.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG5.jpg" width="256" height="144"/>
+            <media:content type="image/jpeg" url="slides/IMG5.jpg" width="1536" height="866"/>
+            <jalbum:exif originalDate="Fri, 27 Jan 2017 17:28:56 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG5.jpg</guid>
+        </item>
+        <item>
+            <title>IMG6</title>
+            <link>slides/IMG6.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG6.jpg" width="256" height="154"/>
+            <media:content type="image/jpeg" url="slides/IMG6.jpg" width="1536" height="921"/>
+            <jalbum:exif originalDate="Fri, 27 Jan 2017 17:27:46 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG6.jpg</guid>
+        </item>
+        <item>
+            <title>IMG7</title>
+            <link>slides/IMG7.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG7.jpg" width="256" height="144"/>
+            <media:content type="image/jpeg" url="slides/IMG7.jpg" width="1536" height="866"/>
+            <jalbum:exif originalDate="Fri, 27 Jan 2017 17:27:27 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG7.jpg</guid>
+        </item>
+        <item>
+            <title>IMG8</title>
+            <link>slides/IMG8.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG8.jpg" width="256" height="190"/>
+            <media:content type="image/jpeg" url="slides/IMG8.jpg" width="1536" height="1141"/>
+            <jalbum:exif originalDate="Fri, 27 Jan 2017 17:27:13 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG8.jpg</guid>
+        </item>
+        <item>
+            <title>IMG9</title>
+            <link>slides/IMG9.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG9.jpg" width="256" height="144"/>
+            <media:content type="image/jpeg" url="slides/IMG9.jpg" width="1536" height="866"/>
+            <jalbum:exif originalDate="Fri, 27 Jan 2017 17:27:22 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG9.jpg</guid>
+        </item>
+        <item>
+            <title>IMG10</title>
+            <link>slides/IMG10.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG10.jpg" width="192" height="256"/>
+            <media:content type="image/jpeg" url="slides/IMG10.jpg" width="1152" height="1536"/>
+            <jalbum:exif originalDate="Tue, 14 Mar 2017 14:53:55 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG10.jpg</guid>
+        </item>
+        <item>
+            <title>IMG11</title>
+            <link>slides/IMG11.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG11.jpg" width="144" height="256"/>
+            <media:content type="image/jpeg" url="slides/IMG11.jpg" width="866" height="1536"/>
+            <jalbum:exif originalDate="Tue, 07 Nov 2017 15:06:43 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG11.jpg</guid>
+        </item>
+        <item>
+            <title>IMG12</title>
+            <link>slides/IMG12.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG12.jpg" width="256" height="144"/>
+            <media:content type="image/jpeg" url="slides/IMG12.jpg" width="1536" height="866"/>
+            <jalbum:exif originalDate="Tue, 07 Nov 2017 15:09:26 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG12.jpg</guid>
+        </item>
+        <item>
+            <title>IMG13</title>
+            <link>slides/IMG13.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG13.jpg" width="256" height="144"/>
+            <media:content type="image/jpeg" url="slides/IMG13.jpg" width="1536" height="866"/>
+            <jalbum:exif originalDate="Tue, 07 Nov 2017 15:10:03 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG13.jpg</guid>
+        </item>
+        <item>
+            <title>IMG14</title>
+            <link>slides/IMG14.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG14.jpg" width="192" height="256"/>
+            <media:content type="image/jpeg" url="slides/IMG14.jpg" width="1152" height="1536"/>
+            <jalbum:exif originalDate="Thu, 25 Jan 2018 13:40:44 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG14.jpg</guid>
+        </item>
+        <item>
+            <title>IMG15</title>
+            <link>slides/IMG15.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG15.jpg" width="192" height="256"/>
+            <media:content type="image/jpeg" url="slides/IMG15.jpg" width="1152" height="1536"/>
+            <jalbum:exif originalDate="Thu, 25 Jan 2018 13:43:43 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG15.jpg</guid>
+        </item>
+        <item>
+            <title>IMG16</title>
+            <link>slides/IMG16.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG16.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/IMG16.jpg" width="1536" height="1152"/>
+            <jalbum:exif originalDate="Thu, 25 Jan 2018 13:43:56 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG16.jpg</guid>
+        </item>
+        <item>
+            <title>IMG17</title>
+            <link>slides/IMG17.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG17.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/IMG17.jpg" width="1536" height="1152"/>
+            <jalbum:exif originalDate="Thu, 25 Jan 2018 13:43:56 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG17.jpg</guid>
+        </item>
+        <item>
+            <title>IMG18</title>
+            <link>slides/IMG18.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description>dav</description>
+            <media:description type="html">dav</media:description>
+            <media:thumbnail url="thumbs/IMG18.jpg" width="192" height="256"/>
+            <media:content type="image/jpeg" url="slides/IMG18.jpg" width="1152" height="1536"/>
+            <jalbum:exif originalDate="Tue, 14 Mar 2017 14:54:07 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG18.jpg</guid>
+        </item>
+        <item>
+            <title>IMG19</title>
+            <link>slides/IMG19.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG19.jpg" width="256" height="144"/>
+            <media:content type="image/jpeg" url="slides/IMG19.jpg" width="1536" height="866"/>
+            <jalbum:exif originalDate="Fri, 27 Jan 2017 17:26:54 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG19.jpg</guid>
+        </item>
+        <item>
+            <title>IMG20</title>
+            <link>slides/IMG20.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG20.jpg" width="256" height="144"/>
+            <media:content type="image/jpeg" url="slides/IMG20.jpg" width="1536" height="866"/>
+            <jalbum:exif originalDate="Fri, 27 Jan 2017 17:27:22 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG20.jpg</guid>
+        </item>
+        <item>
+            <title>IMG21</title>
+            <link>slides/IMG21.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG21.jpg" width="256" height="144"/>
+            <media:content type="image/jpeg" url="slides/IMG21.jpg" width="1536" height="866"/>
+            <jalbum:exif originalDate="Fri, 27 Jan 2017 17:27:27 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG21.jpg</guid>
+        </item>
+        <item>
+            <title>IMG22</title>
+            <link>slides/IMG22.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description>dav</description>
+            <media:description type="html">dav</media:description>
+            <media:thumbnail url="thumbs/IMG22.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/IMG22.jpg" width="1536" height="1152"/>
+            <jalbum:exif originalDate="Thu, 25 Jan 2018 13:40:36 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG22.jpg</guid>
+        </item>
+        <item>
+            <title>IMG23</title>
+            <link>slides/IMG23.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description>dav</description>
+            <media:description type="html">dav</media:description>
+            <media:thumbnail url="thumbs/IMG23.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/IMG23.jpg" width="1536" height="1152"/>
+            <jalbum:exif originalDate="Thu, 25 Jan 2018 13:43:43 +0200" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG23.jpg</guid>
+        </item>
+        <item>
+            <title>IMG24</title>
+            <link>slides/IMG24.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG24.jpg" width="256" height="144"/>
+            <media:content type="image/jpeg" url="slides/IMG24.jpg" width="1000" height="564"/>
+            <guid isPermaLink="false">slides/IMG24.jpg</guid>
+        </item>
+        <item>
+            <title>IMG25</title>
+            <link>slides/IMG25.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG25.jpg" width="256" height="153"/>
+            <media:content type="image/jpeg" url="slides/IMG25.jpg" width="1000" height="598"/>
+            <guid isPermaLink="false">slides/IMG25.jpg</guid>
+        </item>
+        <item>
+            <title>IMG26</title>
+            <link>slides/IMG26.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG26.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/IMG26.jpg" width="1536" height="1152"/>
+            <jalbum:exif originalDate="Wed, 28 Mar 2018 08:48:47 +0300" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG26.jpg</guid>
+        </item>
+        <item>
+            <title>IMG27</title>
+            <link>slides/IMG27.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG27.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/IMG27.jpg" width="1536" height="1152"/>
+            <jalbum:exif originalDate="Thu, 12 Apr 2018 09:56:07 +0300" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG27.jpg</guid>
+        </item>
+        <item>
+            <title>IMG28</title>
+            <link>slides/IMG28.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG28.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/IMG28.jpg" width="1536" height="1152"/>
+            <jalbum:exif originalDate="Thu, 12 Apr 2018 09:54:54 +0300" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG28.jpg</guid>
+        </item>
+        <item>
+            <title>IMG29</title>
+            <link>slides/IMG29.jpg</link>
+            <pubDate>Fri, 22 Jun 2018 00:40:44 +0300</pubDate>
+            <description>dav</description>
+            <media:description type="html">dav</media:description>
+            <media:thumbnail url="thumbs/IMG29.jpg" width="213" height="256"/>
+            <media:content type="image/jpeg" url="slides/IMG29.jpg" width="1276" height="1536"/>
+            <jalbum:exif originalDate="Thu, 12 Apr 2018 15:19:26 +0300" cameraMake="HUAWEI" cameraModel="HUAWEI VNS-L21"/>
+            <guid isPermaLink="false">slides/IMG29.jpg</guid>
+        </item>
+    </channel>
+</rss>

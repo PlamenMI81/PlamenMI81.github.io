@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>ARTICLES</title>
+   	<link>.</link>
+        <generator>jAlbum 15.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="UPS/album.rss" title="UPS" thumbnail="UPS/thumbs/IMG1.jpg" thumbnailWidth="256" thumbnailHeight="192" />
+    	<jalbum:link rel="sub" href="%D0%90%D0%94%D0%90%D0%9F%D0%A2%D0%9E%D0%A0%D0%98/album.rss" title="АДАПТОРИ" thumbnail="%D0%90%D0%94%D0%90%D0%9F%D0%A2%D0%9E%D0%A0%D0%98/thumbs/IMG%20%281%29.jpg" thumbnailWidth="192" thumbnailHeight="256" />
+    	<jalbum:link rel="sub" href="%D0%9A%D0%9E%D0%9B%D0%95%D0%9A%D0%A2%D0%9E%D0%A0%D0%98/album.rss" title="КОЛЕКТОРИ" thumbnail="%D0%9A%D0%9E%D0%9B%D0%95%D0%9A%D0%A2%D0%9E%D0%A0%D0%98/thumbs/IMG1.jpg" thumbnailWidth="256" thumbnailHeight="144" />
+    	<jalbum:link rel="sub" href="%D0%9A%D0%9E%D0%A2%D0%9B%D0%98/album.rss" title="КОТЛИ" thumbnail="%D0%9A%D0%9E%D0%A2%D0%9B%D0%98/thumbs/IMG1.jpg" thumbnailWidth="192" thumbnailHeight="256" />
+    	<jalbum:link rel="sub" href="%D0%9A%D0%A0%D0%90%D0%9D%D0%9E%D0%92%D0%95/album.rss" title="КРАНОВЕ" thumbnail="%D0%9A%D0%A0%D0%90%D0%9D%D0%9E%D0%92%D0%95/thumbs/IMG1.JPG" thumbnailWidth="256" thumbnailHeight="192" />
+    	<jalbum:link rel="sub" href="%D0%9B%D0%98%D0%A0%D0%98/album.rss" title="ЛИРИ" thumbnail="%D0%9B%D0%98%D0%A0%D0%98/thumbs/IMG1.jpg" thumbnailWidth="192" thumbnailHeight="256" />
+    	<jalbum:link rel="sub" href="%D0%9B%D0%98%D0%A0%D0%98%20%D0%A5%D0%A0%D0%9E%D0%9C/album.rss" title="ЛИРИ ХРОМ" thumbnail="%D0%9B%D0%98%D0%A0%D0%98%20%D0%A5%D0%A0%D0%9E%D0%9C/thumbs/IMG1.jpg" thumbnailWidth="192" thumbnailHeight="256" />
+    	<jalbum:link rel="sub" href="%D0%9E%D0%91%D0%95%D0%97%D0%92%D0%AA%D0%97%D0%94%D0%A3%D0%A8%D0%98%D0%A2%D0%95%D0%9B%D0%98/album.rss" title="ОБЕЗВЪЗДУШИТЕЛИ" thumbnail="%D0%9E%D0%91%D0%95%D0%97%D0%92%D0%AA%D0%97%D0%94%D0%A3%D0%A8%D0%98%D0%A2%D0%95%D0%9B%D0%98/thumbs/IMG1.jpg" thumbnailWidth="192" thumbnailHeight="256" />
+    	<jalbum:link rel="sub" href="%D0%9F%D0%9E%D0%94%D0%9B%D0%9E%D0%96%D0%9A%D0%98/album.rss" title="ПОДЛОЖКИ" thumbnail="%D0%9F%D0%9E%D0%94%D0%9B%D0%9E%D0%96%D0%9A%D0%98/thumbs/IMG1.jpg" thumbnailWidth="256" thumbnailHeight="192" />
+    	<jalbum:link rel="sub" href="%D0%9F%D0%9E%D0%9C%D0%9F%D0%98/album.rss" title="ПОМПИ" thumbnail="%D0%9F%D0%9E%D0%9C%D0%9F%D0%98/thumbs/IMG1.jpg" thumbnailWidth="192" thumbnailHeight="256" />
+    	<jalbum:link rel="sub" href="%D0%A0%D0%90%D0%94%D0%98%D0%90%D0%A2%D0%9E%D0%A0%D0%98%20%D0%90%D0%9B%D0%A3%D0%9C%D0%98%D0%9D%D0%98%D0%95%D0%92%D0%98/album.rss" title="РАДИАТОРИ АЛУМИНИЕВИ" thumbnail="%D0%A0%D0%90%D0%94%D0%98%D0%90%D0%A2%D0%9E%D0%A0%D0%98%20%D0%90%D0%9B%D0%A3%D0%9C%D0%98%D0%9D%D0%98%D0%95%D0%92%D0%98/thumbs/IMG1.jpg" thumbnailWidth="156" thumbnailHeight="256" />
+    	<jalbum:link rel="sub" href="%D0%A0%D0%90%D0%94%D0%98%D0%90%D0%A2%D0%9E%D0%A0%D0%98%20%D0%9F%D0%90%D0%9D%D0%95%D0%9B%D0%9D%D0%98/album.rss" title="РАДИАТОРИ ПАНЕЛНИ" thumbnail="%D0%A0%D0%90%D0%94%D0%98%D0%90%D0%A2%D0%9E%D0%A0%D0%98%20%D0%9F%D0%90%D0%9D%D0%95%D0%9B%D0%9D%D0%98/thumbs/IMG1.jpg" thumbnailWidth="256" thumbnailHeight="144" />
+    	<jalbum:link rel="sub" href="%D0%A0%D0%90%D0%97%D0%A8%D0%98%D0%A0%D0%98%D0%A2%D0%95%D0%9B%D0%9D%D0%98%20%D0%A1%D0%AA%D0%94%D0%9E%D0%92%D0%95/album.rss" title="РАЗШИРИТЕЛНИ СЪДОВЕ" thumbnail="%D0%A0%D0%90%D0%97%D0%A8%D0%98%D0%A0%D0%98%D0%A2%D0%95%D0%9B%D0%9D%D0%98%20%D0%A1%D0%AA%D0%94%D0%9E%D0%92%D0%95/thumbs/IMG1.jpg" thumbnailWidth="144" thumbnailHeight="256" />
+    	<jalbum:link rel="sub" href="%D0%A2%D0%A0%D0%AA%D0%91%D0%98/album.rss" title="ТРЪБИ" thumbnail="%D0%A2%D0%A0%D0%AA%D0%91%D0%98/thumbs/IMG1.jpg" thumbnailWidth="256" thumbnailHeight="208" />
+        
+    </channel>
+</rss>

@@ -1,0 +1,26 @@
+@media all and (max-width:900px) {
+    h1 {
+        font-size: 0.6rem !important;
+    }
+    body {
+        padding: 0 10vw !important;
+    }
+    #contacts h1 {
+        width: 95% !important;
+    }
+    html {
+        font-size: calc((75vw - 4.5rem) / 7) !important;
+    }
+}
+
+@media all and (min-width:901px) {
+    body {
+        padding: 0 25vw !important;
+    }
+    h1 {
+        font-size: 0.7rem !important;
+    }
+    div.text-box.folderTitle p {
+        font-size: 0.7rem !important;
+    }
+}
