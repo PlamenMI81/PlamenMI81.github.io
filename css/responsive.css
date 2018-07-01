@@ -1,26 +1,21 @@
-@media all and (max-width:900px) {
-    h1 {
-        font-size: 0.6rem !important;
+@media all and (min-width:600px) {
+    #we#we article {
+        width: 50%;
+        height: 6rem;
     }
-    body {
-        padding: 0 10vw !important;
+    #top#top {
+        height: 15rem;
     }
-    #contacts h1 {
-        width: 95% !important;
+    #top#top h1{
+        font-size: 1.9rem;
     }
-    html {
-        font-size: calc((75vw - 4.5rem) / 7) !important;
+    #top#top p{
+        font-size: 1rem;
     }
-}
-
-@media all and (min-width:901px) {
-    body {
-        padding: 0 25vw !important;
+    #we#we .icon i {
+        top: 40%;
     }
-    h1 {
-        font-size: 0.7rem !important;
-    }
-    div.text-box.folderTitle p {
-        font-size: 0.7rem !important;
+    #gallery#gallery{
+        height: 10rem;
     }
 }
