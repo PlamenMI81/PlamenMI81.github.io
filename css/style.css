@@ -84,10 +84,9 @@ section {
     text-align: center;
     margin: auto;
     width: 90%;
-    margin-bottom: 1rem;
-    font-size: 1.2rem;
+    font-size: 1rem;
     position: absolute;
-    top: 25%;
+    top: 2%;
     left: 5%;
 }
 
@@ -313,6 +312,9 @@ div.text-box.folderTitle p {
 
 div.text-box.folderTitle {
     padding-left: 20px !important;
+}
+a.at-share-btn.at-share-btn  {
+    width: 2rem;
 }
 
 footer {
