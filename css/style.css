@@ -288,8 +288,9 @@ section {
 
 .back {
     color: red;
-    font-size: 1.5rem;
+    font-size: 2rem;
     position: fixed;
+    z-index: 10;
     left: 0%;
 }
 
