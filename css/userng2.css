@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+@import url('https://use.fontawesome.com/releases/v5.0.13/css/all.css');
+@import url('./responsive.css');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 15px;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+body:before {
+    content: '';
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/base_bgr.PNG");
+    background-position: center center;
+    background-position: 100% 100%;
+    filter: blur(2px);
+    z-index: -9;
+}
+
+#ng2-app {
+    z-index: 10;
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    padding: 1rem 0 3rem 0;
+}
+
+#ng-header {
+    height: 7rem;
+    background-color: lightgray;
+    border-radius: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    overflow: hidden;
+}
+.navigation{
+    display: flex;
+    height: 50%;
+}
+.navigation a {
+    text-decoration: none;
+    color: black;
+    background-color: rgba(128, 128, 128,0.5);
+    width: 50%;
+    height: 100%;
+    padding-top: 1rem;
+    font-size: 1rem;
+    display: flex;
+}
+.navigation i{
+    color: aquamarine;
+    margin-right: .5rem;
+    font-size: 1rem;
+}
+.navigation a:hover{
+    background-color: rgba(128, 128, 128,0.8);
+}
+#ng-header p{
+    padding-top: 1rem;
+    height: 50%;
+    font-size: 1rem;
+}
+#ng2{
+    margin-top: 3rem;
+}
+
+div .toolbarBackground.toolbarBackground {
+    display: none;
+}

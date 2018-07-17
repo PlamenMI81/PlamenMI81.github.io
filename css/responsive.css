@@ -6,19 +6,38 @@
     #top#top {
         height: 15rem;
     }
-    #top#top h1{
+    #top#top h1 {
         font-size: 1.9rem;
     }
-    #top#top p{
+    #top#top p {
         font-size: 1rem;
     }
     #we#we .icon i {
-        top: 40%;
+        top: 38%;
     }
-    #gallery#gallery{
+    #gallery#gallery {
         height: 10rem;
     }
-    #app#app{
+    #app#app {
         padding: 1rem 0 1rem 0;
+    }
+    #products#products div a {
+        font-size: .8rem;
+    }
+    #products#products article {
+        margin: 1rem .5rem 1rem .5rem;
+    }
+    /*-----------------------------------------------*/
+    .navigation.navigation a {
+        font-size: 2rem;
+    }
+    .navigation.navigation i {
+        font-size: 2rem; 
+    }
+    #ng-header#ng-header p{
+        font-size: 2rem;
+    }
+    #ng-header#ng-header{
+        height: 11rem;
     }
 }

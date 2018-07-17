@@ -11,7 +11,8 @@
 p {
     font-size: 0.6rem;
 }
-h2{
+
+h2 {
     font-size: 1rem;
 }
 
@@ -180,7 +181,8 @@ section {
     background-color: rgba(0, 0, 0, 0.8);
 }
 
-#gallery a i, #gallery a p {
+#gallery a i,
+#gallery a p {
     height: 33%;
 }
 
@@ -275,7 +277,8 @@ section {
     position: relative;
 }
 
-.skype i, .tel i {
+.skype i,
+.tel i {
     font-size: 1rem;
     color: white;
 }
@@ -285,8 +288,7 @@ section {
     animation: rotate-vert-center 1.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
 }
 
-
-a.at-share-btn.at-share-btn  {
+a.at-share-btn.at-share-btn {
     width: 2rem;
 }
 
@@ -368,7 +370,10 @@ footer div {
         transform: translateY(-4px);
         animation-timing-function: ease-in;
     }
-    25%, 55%, 75%, 87% {
+    25%,
+    55%,
+    75%,
+    87% {
         transform: translateY(0px);
         animation-timing-function: ease-out;
     }
