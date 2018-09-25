@@ -1,2 +1,3 @@
+Sitemap: https://www.toplo-plus.com/sitemap.xml
 User-agent: *
 Disallow:
