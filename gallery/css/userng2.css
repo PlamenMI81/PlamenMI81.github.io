@@ -1,0 +1,22 @@
+nav img {
+    width: 4em;
+}
+
+.nav-item {
+    border: 2px dotted gray;
+    border-radius: 10px 0 10px 0;
+    padding: 0 1em 0 1em;
+}
+
+#ng2 {
+    margin-top: 2em;
+}
+
+p {
+    margin-top: 6em;
+    text-align: center;
+}
+
+div .toolbarBackground.toolbarBackground {
+    display: none;
+}
