@@ -1048,7 +1048,7 @@ body.landing {
 	transform: translateX(-50%);
 }
 
-@media screen and (max-width: 1680px) {
+@media screen and (max-width: 4000px) {
 	#banner .logo {
 		width: 22em;
 	}
