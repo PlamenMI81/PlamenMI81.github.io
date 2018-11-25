@@ -1048,9 +1048,22 @@ body.landing {
 	transform: translateX(-50%);
 }
 
+#banner .ornament {
+	position: absolute;
+	width: 300px;
+	left: 70%;
+	top: 6%;
+	transform: translateX(-50%);
+}
+
 @media screen and (max-width: 4000px) {
 	#banner .logo {
 		width: 22em;
+	}
+	#banner .ornament {
+		width: 18em;
+		left: 65%;
+		top: 2%;
 	}
 	#banner h2 {
 		font-size: 2em;
@@ -1067,6 +1080,11 @@ body.landing {
 	#banner .logo {
 		width: 18em;
 	}
+	#banner .ornament {
+		width: 15em;
+		left: 65%;
+		top: 2%;
+	}
 	#banner h2 {
 		font-size: 1.8em;
 		margin: 10em 1em 0 1em;
@@ -1082,6 +1100,11 @@ body.landing {
 	#banner .logo {
 		width: 16em;
 	}
+	#banner .ornament {
+		width: 13em;
+		left: 70%;
+		top: 2%;
+	}
 	#banner h2 {
 		font-size: 1.5em;
 		margin: 10em 1em 0 1em;
@@ -1096,6 +1119,11 @@ body.landing {
 	#banner .logo {
 		width: 14em;
 	}
+	#banner .ornament {
+		width: 9em;
+		left: 70%;
+		top: 4%;
+	}
 	#banner h2 {
 		font-size: 1.1em;
 		margin: 11em 1em 0 1em;
@@ -1109,6 +1137,11 @@ body.landing {
 @media screen and (max-width: 480px) {
 	#banner .logo {
 		width: 12em;
+	}
+	#banner .ornament {
+		width: 7.5em;
+		left: 75%;
+		top: 4%;
 	}
 	#banner h2 {
 		font-size: 1em;
