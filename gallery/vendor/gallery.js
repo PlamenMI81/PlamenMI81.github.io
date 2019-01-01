@@ -34,7 +34,7 @@ $(document).ready(function () {
   let productsSection = $('.row')
   let fragment = document.createDocumentFragment()
   for (let i = 1; i <= 14; i++) {
-    if (i == 11) continue
+    // if (i == 11) continue
     let current = `<div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
     <a href="./img/${productsLink[i]}/" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="./img/${productsLink[i]}/thumbs/IMG1_tn.jpg" alt="">
