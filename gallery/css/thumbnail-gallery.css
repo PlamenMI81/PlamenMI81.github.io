@@ -6,7 +6,7 @@
 
 body {
   padding-top: 54px;
-  background-color: lightgrey;
+  background-color: rgb(117, 117, 117);
 }
 
 .navbar-brand img {
@@ -20,10 +20,44 @@ body {
 
 .d-block {
   text-align: center;
+  overflow: hidden;
 }
 
 .d-block:hover {
   text-decoration: none;
+}
+
+.img-wraper {
+  border: unset;
+  overflow: hidden;
+  border-radius: 1rem;
+  border: 4px solid transparent;
+  transition: .3s ease-in-out;
+}
+
+.img-wraper:hover {
+  overflow: hidden;
+  border-radius: 1rem;
+  border: 4px solid rgb(51, 51, 51);
+}
+
+.img-thumbnail {
+  padding: unset;
+  border: unset;
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.img-thumbnail:hover {
+  -webkit-transform: scale(1.4);
+  transform: scale(1.4);
+}
+
+a>p {
+  color: rgb(33, 37, 41);
+  font-weight: bold;
 }
 
 @media (min-width: 992px) {

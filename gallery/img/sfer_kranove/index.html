@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <link href="https://unpkg.com/nanogallery2/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <!-- google font -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <link rel="stylesheet" href="../../css/userng2.css">
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+  <script type="text/javascript" src="https://unpkg.com/nanogallery2/dist/jquery.nanogallery2.min.js"></script>
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="/">
+        <img src="../../../images/tp-logo.png" alt="logo">
+      </a>
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item ">
+          <a class="nav-link" href="../../" alt="обратно в галерия"><i class="material-icons" data-toggle="tooltip"
+              data-placement="top" title="обратно в галерия">view_module</i></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div id="ng2-app"></div>
+  <p>Kатегория 'СФЕРИЧНИ КРАНОВЕ'</p>
+  </section>
+  <div id="ng2" data-nanogallery2='{
+          
+          "itemsBaseURL": "http://127.0.0.1:5500/gallery/img/sfer_kranove/",
+          "thumbnailWidth": "250",
+          "thumbnailHeight": "250",
+          "thumbnailBorderVertical": 0,
+          "thumbnailBorderHorizontal": 0,
+          "thumbnailLabel": {
+            "display": false
+          },
+          "thumbnailHoverEffect2": "image_scale_1_1.3_100",
+          "thumbnailAlignment": "center",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 30
+        }'>
+
+    <script>
+      $(document).ready(function () {
+        $('[data-toggle="tooltip"]').tooltip();
+      });
+
+      let nanogallery2 = $('#ng2')
+      let fragment = document.createDocumentFragment()
+      for (let i = 1; i <= 4; i++) {
+        let current = `<a href="/slides/IMG (${i}).jpg" data-ngthumb="/thumbs/IMG (${i}).jpg" data-ngdesc=""></a>`
+        $(fragment).append(current)
+      }
+      nanogallery2.append(fragment)
+
+
+    </script>
+
+  </div>
+  </div>
+
+</body>
+
+</html>

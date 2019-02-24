@@ -1,10 +1,12 @@
+body {
+    background-color: rgb(117, 117, 117);
+}
+
 nav img {
     width: 4em;
 }
 
 .nav-item {
-    border: 2px dotted gray;
-    border-radius: 10px 0 10px 0;
     padding: 0 1em 0 1em;
 }
 
@@ -15,8 +17,20 @@ nav img {
 p {
     margin-top: 6em;
     text-align: center;
+    font-weight: bold;
+    letter-spacing: .1em;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FFF 0px 0px 20px, #FFF 0px 0px 30px, #29A7DE 0px 0px 40px, #29A7DE 0px 0px 50px, #29A7DE 0px 0px 75px;
+    color: #343A40;
 }
 
 div .toolbarBackground.toolbarBackground {
     display: none;
+}
+
+.material-icons {
+    font-size: 3em
+}
+
+.nGY2GThumbnail {
+    border-radius: 10px;
 }
