@@ -10,19 +10,20 @@ $(document).ready(function () {
     8: 'kolektori_podovo',
     9: 'kolektori',
     10: 'podlojka',
-    11: 'pompi',
-    12: 'pres_adaptori',
-    13: 'rad_kranove',
-    14: 'raz_sudove',
-    15: 'kuki',
-    16: 'sfer_kranove',
-    17: 'termoglavi',
-    18: 'termostati',
-    19: 'trubi_pex',
-    20: 'trubi_pex_iz',
-    21: 'trubi_podovo',
-    22: 'c_pompi',
-    23: 'ups'
+    11: 'izolaciq_folio',
+    12: 'pompi',
+    13: 'pres_adaptori',
+    14: 'rad_kranove',
+    15: 'raz_sudove',
+    16: 'kuki',
+    17: 'sfer_kranove',
+    18: 'termoglavi',
+    19: 'termostati',
+    20: 'trubi_pex',
+    21: 'trubi_pex_iz',
+    22: 'trubi_podovo',
+    23: 'c_pompi',
+    24: 'ups'
   }
   let productsBg = {
     1: 'алуминиеви радиатори',
@@ -35,23 +36,24 @@ $(document).ready(function () {
     8: 'колектори за подово',
     9: 'месингови колектори',
     10: 'подложка за подово отопление',
-    11: 'помпи',
-    12: 'прес адаптори',
-    13: 'радиаторни кранове',
-    14: 'разширителни съдове',
-    15: 'куки регулируеми',
-    16: 'сферични кранове',
-    17: 'термоглави',
-    18: 'термостати',
-    19: 'тръби pex',
-    20: 'тръби pex с изолация',
-    21: 'тръби за подово',
-    22: 'циркулационни помпи',
-    23: 'ups'
+    11: 'изолация с фолио',
+    12: 'помпи',
+    13: 'прес адаптори',
+    14: 'радиаторни кранове',
+    15: 'разширителни съдове',
+    16: 'куки регулируеми',
+    17: 'сферични кранове',
+    18: 'термоглави',
+    19: 'термостати',
+    20: 'тръби pex',
+    21: 'тръби pex с изолация',
+    22: 'тръби за подово',
+    23: 'циркулационни помпи',
+    24: 'ups'
   }
   let productsSection = $('.row')
   let fragment = document.createDocumentFragment()
-  for (let i = 1; i <= 23; i++) {
+  for (let i = 1; i <= 24; i++) {
     let current = `<div class="col-lg-3 col-md-4 col-sm-6 col-6">
     <a href="./img/${productsLink[i]}/" class="d-block mb-4 h-100">
       <div class="img-wraper">
