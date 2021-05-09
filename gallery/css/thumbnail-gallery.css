@@ -30,15 +30,15 @@ body {
 .img-wraper {
   border: unset;
   overflow: hidden;
-  border-radius: 1rem;
-  border: 4px solid transparent;
+  border-radius: 0.5rem;
+  border: 4px solid rgb(51, 51, 51);
   transition: .3s ease-in-out;
 }
 
 .img-wraper:hover {
   overflow: hidden;
-  border-radius: 1rem;
-  border: 4px solid rgb(51, 51, 51);
+  border-radius: 3rem;
+  border: 4px dotted rgb(51, 51, 51);
 }
 
 .img-thumbnail {
