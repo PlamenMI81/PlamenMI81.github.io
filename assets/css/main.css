@@ -213,7 +213,7 @@ header.narrow {
 	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/gallery_bg.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center;
+	background-position: 50% 70%;
 }
 
 #two h2 {
