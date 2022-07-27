@@ -629,7 +629,8 @@ ul.alt>li {
 }
 
 .wrapper.style1 {
-	background-color: rgb(117, 117, 117);
+	/* background-color: rgb(117, 117, 117); */
+	background-color: rgb(0, 0, 0);
 	color: #777;
 }
 
